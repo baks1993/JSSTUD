@@ -1,4 +1,4 @@
-"use strict";
+" use strict ";
 
 // alert('Hello MotherFucker');
 
@@ -40,7 +40,6 @@ let incr = 10,
     console.log(decr);
 
     const isChecked = false,
-          isClose = false;
-
-          console.log(isChecked || isClose);
+          isClose = true;
+          console.log(isChecked && isClose);
 
