@@ -1,5 +1,17 @@
 " use strict ";
 
+// snake_case
+// название папок в джава скрипте
+//UPPER_SNAKE_CASE 
+// CONSTANTbl
+// _name
+// Руками не трогать
+// kebab-case
+// Название папок и файлов 
+// PascalCase
+
+
+
 // alert('Hello MotherFucker');
 
 // const result = confirm("are you here");
