@@ -1,4 +1,4 @@
-" use strict ";
+"use strict";
 
 // snake_case
 // название папок в джава скрипте
@@ -39,8 +39,8 @@
 
 // alert(`Ky, ${user}`);
 
-console.log('arr' + " FUCK u");
-console.log(4 + +"5");
+console.log('arr' + " - object");
+console.log(30 + +"10");
 
 let incr = 10,
     decr = 10;
@@ -51,7 +51,16 @@ let incr = 10,
     console.log(incr);
     console.log(decr);
 
-    const isChecked = false,
-          isClose = true;
-          console.log(isChecked && isClose);
+console.log(5%4); 
 
+console.log( 2 + 2 * 2 !== '6');
+
+const isCheck = true,
+    isClose = false;
+
+    console.log(isCheck && isClose);
+
+    const isCheck2 = false,
+    isClose2 = false;
+
+    console.log(isCheck2 || !isClose2);
